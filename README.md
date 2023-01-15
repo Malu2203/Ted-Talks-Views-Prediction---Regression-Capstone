@@ -1,8 +1,8 @@
 *   # **PROJECT NAME : *TED TALKS VIEWS PREDICTION***
 *** ***
-*   # **PROJECT TYPE  :** Regression
+*   ## **PROJECT TYPE  :** Regression
   
-*   # **PROJECT OBJECTIVE : *TO PREDICT THE VIEWS OF A VIDEO UPLOADED TO TEDx WEBSITE***
+*   ## **PROJECT OBJECTIVE : *TO PREDICT THE VIEWS OF A VIDEO UPLOADED TO TEDx WEBSITE***
 
 ### *Even though TED talks are quite popular these days but we would still like to give a small description*
 **What is TED Talks?**
